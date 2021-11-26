@@ -1,0 +1,8 @@
+NEURON -- VERSION 7.8.1-1-gda13bb7c HEAD (da13bb7c) 2020-07-22
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2019
+See http://neuron.yale.edu/neuron/credits
+
+Additional mechanisms from files
+ workspace/mod/HCN1.mod workspace/mod/IC.mod workspace/mod/IKsin.mod workspace/mod/ar.mod workspace/mod/ar_traub.mod workspace/mod/beforestep_py.mod workspace/mod/ca.mod workspace/mod/cad.mod workspace/mod/cadad.mod workspace/mod/cadyn.mod workspace/mod/cagk.mod workspace/mod/cal_mh.mod workspace/mod/cal_mig.mod workspace/mod/can_mig.mod workspace/mod/canin.mod workspace/mod/cat.mod workspace/mod/cat_mig.mod workspace/mod/cat_traub.mod workspace/mod/catcb.mod workspace/mod/dipole.mod workspace/mod/dipole_pp.mod workspace/mod/gabab.mod workspace/mod/h_BS.mod workspace/mod/h_harnett.mod workspace/mod/h_kole.mod workspace/mod/h_migliore.mod workspace/mod/hh2.mod workspace/mod/hh3.mod workspace/mod/hin.mod workspace/mod/ican_sidi.mod workspace/mod/kBK.mod workspace/mod/kap_BS.mod workspace/mod/kapcb.mod workspace/mod/kapin.mod workspace/mod/kca.mod workspace/mod/kctin.mod workspace/mod/kdmc_BS.mod workspace/mod/kdr_BS.mod workspace/mod/kdrin.mod workspace/mod/km.mod workspace/mod/lfp.mod workspace/mod/mea.mod workspace/mod/nafx.mod workspace/mod/nap_sidi.mod workspace/mod/nax_BS.mod workspace/mod/savedist.mod workspace/mod/vecevent.mod workspace/mod/vecstim.mod
+0 /home/user/miniconda3/envs/netpyne/bin/nrniv: can't open simConfig='/home/user/NetPyNE-UI/workspace/experiments/myexp/myexp_0_cfg.json'
+0 /home/user/miniconda3/envs/netpyne/bin/nrniv: can't open netParams='/home/user/NetPyNE-UI/workspace/experiments/myexp/myexp_netParams.json'

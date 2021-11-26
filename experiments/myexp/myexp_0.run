@@ -1,0 +1,6 @@
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Format not recognized for file '/home/user/NetPyNE-UI/workspace/experiments/myexp/myexp_0_cfg.json'
+Loading simConfig...
+Trial failed ...
+argument of type 'NoneType' is not iterable

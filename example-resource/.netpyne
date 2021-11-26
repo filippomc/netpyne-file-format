@@ -1,0 +1,9 @@
+{
+    "netParams_file": "src/init.py",
+    "netParams_object": "netParams",
+    "simConfig_file": "src/init.py",
+    "simConfig_object": "cfg",
+    "mod_folder": "cells/mod",
+    "instantiated_network": "netpyne.json",
+    "sim_data": "out.json"
+}

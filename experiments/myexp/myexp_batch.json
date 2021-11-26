@@ -1,0 +1,28 @@
+{
+    "batch": {
+        "batchLabel": "myexp",
+        "cfgFile": "cfg.py",
+        "evolCfg": {
+            "fitnessFunc": "removed"
+        },
+        "initCfg": {},
+        "method": "grid",
+        "netParamsFile": "netParams.py",
+        "params": [
+            {
+                "label": "scale",
+                "values": [
+                    0
+                ]
+            }
+        ],
+        "runCfg": {
+            "cores": 1,
+            "script": "run.py",
+            "skip": true,
+            "type": "mpi_bulletin"
+        },
+        "saveFolder": "/home/user/NetPyNE-UI/workspace/experiments/myexp",
+        "seed": null
+    }
+}

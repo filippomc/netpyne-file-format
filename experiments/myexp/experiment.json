@@ -1,0 +1,44 @@
+{
+    "folder": null,
+    "initConfig": {},
+    "method": "grid",
+    "name": "myexp",
+    "params": [
+        {
+            "inGroup": false,
+            "label": "",
+            "mapsTo": "scale",
+            "max": 1,
+            "min": 0,
+            "step": 1,
+            "type": "range",
+            "values": [
+                0
+            ]
+        }
+    ],
+    "runCfg": {
+        "asynchronous": true,
+        "cores": 1,
+        "parallel": true,
+        "resource": "local",
+        "type": "mpi_bulletin"
+    },
+    "seed": null,
+    "state": "ERROR",
+    "timestamp": "2021-11-04 17:42:47.830234",
+    "trials": [
+        {
+            "id": "_0",
+            "indices": [
+                0
+            ],
+            "name": "Trial 1",
+            "params": [
+                {
+                    "scale": 0
+                }
+            ]
+        }
+    ]
+}
