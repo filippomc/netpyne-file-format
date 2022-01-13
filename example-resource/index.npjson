@@ -1,0 +1,12 @@
+{
+    "mod_folder": "mod",
+    "python_run": "src/init.py",
+
+    "netParams_python": "src/netParams.py",
+    "netParams_json": "params/params_v1.json",
+    "netParams_variable": "netParams",    
+
+    "simConfig_python": "src/cfg.py",
+    "simConfig_json": "params/params_v1.json",
+    "simConfig_variable": "cfg"
+}
