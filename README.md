@@ -19,7 +19,7 @@ netParams, simConfig = specs.load(index='index.npjson', method='json')
 
 ## Generate an index from an existing NetPyNE model
 
-A new utility allows the user to create the index file from command line
+A new shell utility (available upon installing netpyne with pip or setup.py) allows the user to create the index file from command line
 
 Interactive mode:
 ```
