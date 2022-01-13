@@ -23,7 +23,7 @@ A new utility allows the user to create the index file from command line
 
 Interactive mode:
 ```
-# netpyne export . --interactive
+$ netpyne export . --interactive
 > Interactive procedure to define export your NetPyNE model to the interchange format. Type ENTER on any question if not relevant or leaving the default value.
 
 > Specify the network parameters file [src/netParams.py]: netParams.py
@@ -41,7 +41,7 @@ Interactive mode:
 
 Argument-based mode:
 ```
-# netpyne export . --netParams-file=netParams.py --netParams-var=netParams --simConfig-file=cfg.py
+$ netpyne export . --netParams-file=netParams.py --netParams-var=netParams --simConfig-file=cfg.py
 > Exporting your NetPyNE model to the interchange format
 > Network parameters (netParams.py:netParams) found. OK.
 > Simulation configuration (cfg.py:cfg) found. OK.
